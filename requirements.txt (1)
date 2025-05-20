@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+cv2
+numpy
+pandas
+pillow
+opencv-python-headless
